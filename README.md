@@ -21,7 +21,7 @@
     Gracias por tomarte el tiempo de visitar mi perfil de GitHub.
 </div>
 
-<h2>Sobre mí</h2>
+<h2>About Me</h2>
 
 <img width="55%" align="right" alt="Github" 
       />
@@ -66,7 +66,6 @@
   </a>
 </p>
 
-<br>
 <br>
   <br>
 <h2>GitHub Stats</h2>
