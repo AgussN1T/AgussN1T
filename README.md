@@ -36,6 +36,7 @@
   <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg" />
   <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" />
   <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg" />
+  <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" />
 </p>
 
 
