@@ -8,7 +8,7 @@
 
 
 <div>
-    Hola, mi nombre es <strong>Agustín Rivero</strong>.  
+    Hola, mi nombre es <strong>Agustín</strong>.  
     Gracias por tomarte el tiempo de visitar mi perfil de GitHub.
 </div>
 
