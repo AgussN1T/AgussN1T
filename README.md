@@ -14,14 +14,13 @@
 
 <h2>About Me</h2>
 
-<img width="55%" align="right" alt="Github" 
-      />
+<img width="55%" align="right" alt="Github" />
 
 <ul>
     <li>🎓 Estudiante universitario de <strong>Analista Programador</strong></li>
     <li>📚 Actualmente aprendiendo y reforzando conocimientos en <strong>Java, Git y desarrollo de software</strong></li>
     <li>🤝 Interesado en colaborar en <strong>proyectos académicos y profesionales</strong></li>
-    <li>💬 Puedo aportar en <strong>Java, SQL (PostgreSQL), C, JavaScript, HTML y CSS</strong></li>
+    <li>💬 Siempre dispuesto a aprender más</li>
     <li>🎵 Move to the Rhythm</li>
 </ul>
 
