@@ -4,7 +4,7 @@
 </p>
 
 
-<h1>Hola, bienvenido a mi perfil</h1>
+<h1>Welcome to my Github Profile</h1>
 
 
 <div>
