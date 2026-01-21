@@ -13,9 +13,6 @@
 </div>
 
 <h2>About Me</h2>
-
-<img width="55%" align="right" alt="Github" />
-
 <ul>
     <li>🎓 Estudiante universitario de <strong>Analista Programador</strong></li>
     <li>📚 Actualmente aprendiendo y reforzando conocimientos en <strong>Java, Git y desarrollo de software</strong></li>
