@@ -52,6 +52,11 @@
     <img width="32px" align="center"
          src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
   </a>
+  
+   <a href="https://discordapp.com/users/agussn1t" target="_blank">
+    <img width="32px" align="center"
+         src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg"/>
+  </a>
 </p>
 
 <br>
