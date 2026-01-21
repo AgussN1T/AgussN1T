@@ -1,20 +1,11 @@
 ## Hi there 👋
 
 <p align="center">
-   <img width="200" src="https://raw.githubusercontent.com/AgussN1T/AgussN1T/main/assets/profile.png">
 </p>
 
 
-<h1>Hola, bienvenido a mi perfil < Developers /> 
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</h1>
+<h1>Hola, bienvenido a mi perfil</h1>
 
-<p align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=AgussN1T.AgussN1T" alt="profile views"/>
-    <a href="https://github.com/AgussN1T">
-        <img src="https://img.shields.io/github/followers/AgussN1T?label=Follow&style=social" alt="GitHub followers"/>
-    </a>
-</p>
 
 <div>
     Hola, mi nombre es <strong>Agustín Rivero</strong>.  
